@@ -1,5 +1,7 @@
-import { Html, Head, Main, NextScript } from "next/document";
-import { getCssText } from "../styles";
+import React from 'react';
+
+import { Html, Head, Main, NextScript } from 'next/document';
+import { getCssText } from '../styles';
 
 export default function Documente() {
   return (
